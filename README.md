@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# HTML5 LAYOUTS
+**Layouts** is what the devalopers use in ther websites,ther are more than one layout haveing headers containing a **logo** and the main navigation.
+under that ther is one or more _articals_ or _posts_. also, It contains a **sidebar** to help you search for information inside the web page.
 
-You can use the [editor on GitHub](https://github.com/Abdulrahman-19/abed-site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Headers And Footers
+They are individual within the page, The header contains the site name and the main navigation bar.
+the footer elemants contains **copyright** information along with  links to the _privacy_ _policy_ and **terms and conditions**. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# DOCTYPEs
+  **DOCTYPE** declaration to tell a browser which version of _HTML_ the page is using (although
+browsers usually display thepage even if it is not included)
+  **ex:** !DOCTYPE html
 
-```markdown
-Syntax highlighted code block
+## HTML Versions
+ the top used **HTML** versions
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abdulrahman-19/abed-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- HTML5
+- HTML4

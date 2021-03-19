@@ -10,3 +10,4 @@ for(var i=0; i < 3 ; i++){
     }
 }
 site();
+prompt("welcome");
